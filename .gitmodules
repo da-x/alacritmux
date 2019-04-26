@@ -1,0 +1,6 @@
+[submodule "alacritty"]
+	path = alacritty
+	url = git@github.com:da-x/alacritty.git
+[submodule "tmux"]
+	path = tmux
+	url = git@github.com:da-x/tmux.git
